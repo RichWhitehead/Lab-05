@@ -1,4 +1,5 @@
-# Lab-05
+# Lab: 05 - Deploy & Extend Your Portfolio
+
  Deploy &amp; Extend Your Portfolio
 
  # Author 
@@ -9,15 +10,13 @@
 
 For each of the features listed below, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature:
 
-Number and name of feature: _______________________________
+Estimate of time needed to complete: 5 hours (initially)
 
-Estimate of time needed to complete: _____
+Start time: 7:35
 
-Start time: _____
+Finish time: 11:00
 
-Finish time: _____
-
-Actual time needed to complete: _____
+Actual time needed to complete: 3 hours
 
 # Feature #1: Deployment
 
