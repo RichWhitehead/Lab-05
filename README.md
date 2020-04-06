@@ -1,6 +1,10 @@
 # Lab-05
  Deploy &amp; Extend Your Portfolio
 
+ # Author 
+
+ Richard Whitehead
+
 # Time Estimate
 
 For each of the features listed below, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature:
@@ -23,6 +27,7 @@ You will need to initiate a new repository to complete this task.
 Add the URL to your live, deployed server to your README.
 Feature #2: Add functionality
 Why are we implementing this feature?
+
 As a user, I want to view a unique portfolio so that the developer’s projects and skills stand out.
 What are we going to implement?
 Given that a user opens the application in the browser
@@ -38,3 +43,7 @@ Note: CDNs are available for all libraries except Breakpoints.JS
 In tablet view, show a fixed navigation menu instead of a hamburger menu
 Convert the large image at the top of your portfolio to a video background or an image carousel containing at least three images
 Add any other UI features that you feel will make your portfolio unique and personalized
+
+# Resources
+
+`Heroku.com`
